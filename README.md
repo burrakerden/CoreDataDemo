@@ -1,2 +1,3 @@
 # CoreDataDemo
-I made a simple app to explain and learn core data
+
+I made such a simple demo app both to learn myself and to help those in need.
